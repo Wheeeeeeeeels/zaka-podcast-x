@@ -6,7 +6,11 @@
 
 # FFmpeg
 ffmpeg/
-*.exe
+ffmpeg/**
+ffmpeg/bin/
+ffmpeg/bin/*
+ffmpeg/doc/
+ffmpeg/doc/*
 
 # Python
 __pycache__/
