@@ -1,0 +1,43 @@
+# AI和内容生成
+openai==1.57.0
+python-dotenv==1.0.1
+jiter>=0.4.0,<1.0.0
+
+# 音频处理
+gTTS==2.4.0
+pydub==0.25.1
+pyaudio==0.2.14
+numpy==1.26.4
+librosa==0.10.1
+
+# API和网络
+requests==2.31.0
+python-slugify==8.0.1
+aiohttp==3.9.3
+
+# 工具和工具类
+tqdm==4.67.1
+python-dateutil==2.8.2
+pytz==2024.1
+pyarrow==15.0.0
+
+# 测试
+pytest==8.0.2
+pytest-cov==4.1.0
+pytest-asyncio==0.23.5
+
+# 文档
+sphinx==7.2.6
+sphinx-rtd-theme==2.0.0
+
+# 代码质量
+black==24.1.1
+flake8==7.0.0
+mypy==1.8.0
+isort==5.13.2
+
+# Flask
+flask==2.0.1
+
+# Web 应用
+streamlit==1.31.1

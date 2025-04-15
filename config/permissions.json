@@ -1,0 +1,26 @@
+{
+  "role_permissions": {
+    "admin": [
+      "read",
+      "write",
+      "delete",
+      "manage",
+      "upload",
+      "download"
+    ],
+    "editor": [
+      "read",
+      "write",
+      "upload",
+      "download"
+    ],
+    "user": [
+      "read",
+      "download"
+    ],
+    "guest": [
+      "read"
+    ]
+  },
+  "user_roles": {}
+}

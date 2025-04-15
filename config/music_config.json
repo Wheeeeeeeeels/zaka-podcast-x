@@ -1,0 +1,58 @@
+{
+  "business_energetic_001": {
+    "id": "business_energetic_001",
+    "name": "轻快节奏",
+    "path": "assets/music/business/energetic_001.mp3",
+    "description": "适合科技、商业类话题的轻快背景音乐",
+    "mood": "energetic",
+    "category": "business",
+    "duration": 180,
+    "bpm": 120,
+    "tags": ["商业", "科技", "创新"],
+    "license": {
+      "license_type": "CC BY-NC-SA",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "attribution": "Music by Zaka Podcast",
+      "commercial_use": true,
+      "modification_allowed": true
+    },
+    "version": "1.0.0",
+    "created_at": "2024-04-15",
+    "updated_at": "2024-04-15",
+    "is_active": true,
+    "is_default": true,
+    "metadata": {
+      "instrumentation": ["piano", "strings", "drums"],
+      "key": "C major",
+      "tempo": "moderate"
+    }
+  },
+  "business_professional_001": {
+    "id": "business_professional_001",
+    "name": "专业访谈",
+    "path": "assets/music/business/professional_001.mp3",
+    "description": "适合访谈、对话类节目的专业背景音乐",
+    "mood": "professional",
+    "category": "business",
+    "duration": 180,
+    "bpm": 90,
+    "tags": ["商业", "访谈", "专业"],
+    "license": {
+      "license_type": "CC BY-NC-SA",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "attribution": "Music by Zaka Podcast",
+      "commercial_use": true,
+      "modification_allowed": true
+    },
+    "version": "1.0.0",
+    "created_at": "2024-04-15",
+    "updated_at": "2024-04-15",
+    "is_active": true,
+    "is_default": false,
+    "metadata": {
+      "instrumentation": ["piano", "strings"],
+      "key": "G major",
+      "tempo": "slow"
+    }
+  }
+} 
