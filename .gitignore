@@ -4,6 +4,10 @@
 *.ogg
 *.m4a
 
+# FFmpeg
+ffmpeg/
+*.exe
+
 # Python
 __pycache__/
 *.py[cod]
